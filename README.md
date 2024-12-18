@@ -1,6 +1,6 @@
 
 
-# **PJM Hourly Energy Consumption Analysis: **
+# PJM Hourly Energy Consumption Analysis: 
 
 ## **Introduction**  
 As someone deeply interested in energy management, I undertook this project to analyze 10 years of hourly energy consumption data from PJM, a leading regional transmission organization. The goal was to uncover demand patterns, understand long-term trends, and provide actionable recommendations for improving grid management and energy efficiency. Through this work, I aim to contribute to more informed decision-making in grid operations and energy policy.  
